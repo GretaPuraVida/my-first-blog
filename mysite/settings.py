@@ -25,7 +25,7 @@ SECRET_KEY = 'a$j&&*0u$dqsq%h1w-jkhqr$qjgkg+4#_h8^e5=#2h3_nrmwvt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<greta.puravida@gmail.com>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'gretapv.pythonanywhere.com']
 
 
 # Application definition
